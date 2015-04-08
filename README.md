@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-test repo for class work
+test repo for class work, much more to come. 
